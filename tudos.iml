@@ -14,6 +14,7 @@
       <excludeFolder url="file://$MODULE_DIR$/doc" />
       <excludeFolder url="file://$MODULE_DIR$/logs" />
     </content>
+    <orderEntry type="jdk" jdkName="Erlang for Elixir 25" jdkType="Erlang SDK for Elixir SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
